@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sa3dmustafa" alt="sa3dmustafa" /></a> </p>
 
-- 🔭 I’m currently working on **Graduation Project**
+- 🔭 I’m currently working on *Graduation Project*
 
-- 🌱 I’m currently learning **Redux, Next.js, More Advanced**
+- 🌱 I’m currently learning *Redux, Next.js, More Advanced*
 
-- 💬 Ask me about **React.js, JavaScript**
+- 💬 Ask me about *React.js, JavaScript*
 
-- 📫 How to reach me **saad.abdo01212@gmail.com**
+- 📫 How to reach me *saad.abdo01212@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sa3dmustafa&show_icons=true&locale=en&layout=compact" alt="sa3dmustafa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sa3dmustafa&show_icons=true&locale=en" alt="sa3dmustafa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa3dmustafa&" alt="sa3dmustafa" /></p>
-
