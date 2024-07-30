@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sa3dmustafa" alt="sa3dmustafa" /></a> </p>
 
-- 🔭 I’m currently working on *Graduation Project*
+- 🔭 I’m currently *Fresh Graduation*
 
-- 🌱 I’m currently learning *Redux, Next.js, More Advanced*
+- 🌱 I’m currently learning *Next.js,More Advanced*
 
 - 💬 Ask me about *React.js, JavaScript*
 
