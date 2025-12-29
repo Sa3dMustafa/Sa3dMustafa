@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently *Fresh Graduation*
 
-- 🌱 I’m currently learning *Next.js,More Advanced*
+- 🌱 I’m currently learning *Next.js, Node.js, More Advanced*
 
-- 💬 Ask me about *React.js, JavaScript*
+- 💬 Ask me about *JavaScript, React, Next.js, Node.js*
 
 - 📫 How to reach me *saad.abdo01212@gmail.com*
 
