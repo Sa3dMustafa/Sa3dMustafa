@@ -90,17 +90,6 @@ I enjoy turning complex problems into elegant, user-friendly solutions and conti
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=sa3dmustafa&theme=tokyonight" 
-    alt="Saad's GitHub Streak" 
-  />
-</p>
-
----
-
 ### 📫 Connect with me
 
 - 💼 LinkedIn: [saad-mustafa](https://www.linkedin.com/in/saad-mustafa/)  
