@@ -94,7 +94,7 @@ I enjoy turning complex problems into elegant, user-friendly solutions and conti
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sa3dmustafa&theme=tokyonight" 
+    src="https://streak-stats.demolab.com/?user=sa3dmustafa&theme=tokyonight" 
     alt="Saad's GitHub Streak" 
   />
 </p>
