@@ -11,79 +11,59 @@ I build clean, modern, and performant web interfaces with a strong focus on user
   <img src="https://komarev.com/ghpvc/?username=sa3dmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="sa3dmustafa" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sa3dmustafa&theme=flat&margin-w=10" alt="sa3dmustafa" />
-  </a>
-</p>
+🔭 Fresh Computer Science Graduate  
+💻 Full Stack Developer (React • Next.js • Node.js)  
+🌱 Currently focusing on Advanced JavaScript & Modern React  
+🚀 Interested in building scalable web applications  
 
 ---
 
-### 👨‍💻 About Me
+### 🛠 Tech Stack
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, VS Code 
 
-- 🔭 **Fresh Computer Science Graduate**
-- 🌱 Currently learning **Next.js, Node.js, Advanced React Concepts**
-- 💬 Ask me about **JavaScript, React, Next.js, UI Development**
-- 📫 Reach me at **saad.abdo01212@gmail.com**
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/saad-mustafa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/sa3d0o11" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  </a>
-</p>
 
 ---
 
 ### 📊 GitHub Stats
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide=stars&count_private=true)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sa3dmustafa&show_icons=true&locale=en&layout=compact" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sa3dmustafa&show_icons=true&locale=en" />
-</p>
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME)
+
+---
+
+### 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- Email: your@email.com
+
+
+### 🛠 Tech Stack
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, PostgreSQL  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+### 📊 GitHub Stats
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide=stars&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME)
+
+---
+
+### 📫 Connect with me
+- LinkedIn: https://[linkedin.com/in/YOUR_LINK ](https://www.linkedin.com/in/saad-mustafa/) 
+- Email: saad.abdo01212@email.com
