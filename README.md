@@ -137,12 +137,12 @@ I'm continuously improving my frontend engineering skills, with a current focus 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sa3dmustafa&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=Sa3dMustafa&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&theme=tokyonight"
     height="165"
     alt="Saad's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa3dmustafa&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3dMustafa&layout=compact&langs_count=8&theme=tokyonight"
     height="165"
     alt="Top Languages"
   />
@@ -150,11 +150,11 @@ I'm continuously improving my frontend engineering skills, with a current focus 
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sa3dmustafa&theme=tokyonight"
+    src="https://streak-stats.demolab.com?user=Sa3dMustafa&theme=tokyonight&hide_border=false"
+    height="165"
     alt="GitHub Streak"
   />
 </p>
-
 ---
 
 ## 🤝 Let's Connect
