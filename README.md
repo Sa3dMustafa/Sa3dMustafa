@@ -13,9 +13,6 @@
   <a href="https://github.com/Sa3dMustafa">
     <img src="https://komarev.com/ghpvc/?username=sa3dmustafa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://github.com/Sa3dMustafa?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sa3dMustafa?label=Followers&style=flat" alt="GitHub Followers" />
-  </a>
 </p>
 
 ---
