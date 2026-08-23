@@ -1,96 +1,178 @@
 <h1 align="center">Hi 👋, I'm Saad Mustafa</h1>
 
-<h3 align="center">
-Frontend Web Developer • UI Enthusiast • React & Next.js
-</h3>
-
 <p align="center">
-I build clean, modern, and performant web interfaces with a strong focus on user experience 🚀
+  <strong>Frontend Developer | React.js | Next.js | TypeScript</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sa3dmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="sa3dmustafa" />
+  I build modern, responsive, and scalable web applications with a strong focus on
+  <strong>UI/UX, performance, accessibility, and clean code.</strong>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-I'm a **Frontend Web Developer** with a strong passion for building **modern, clean, and high-performance user interfaces**.  
-I specialize in crafting responsive and scalable web applications using **React** and **Next.js**, with a sharp focus on **UI/UX, performance, and code quality**.
-
-As a **Computer Science graduate**, I have a solid foundation in JavaScript fundamentals and modern frontend architecture.  
-I enjoy turning complex problems into elegant, user-friendly solutions and continuously improving my skills by working on real-world projects.
-
-💡 **What I care about:**
-- Clean & maintainable code  
-- Modern UI design systems  
-- Performance & best practices  
-- Building products users actually enjoy using  
-
-🚀 **Currently focusing on:**
-- Advanced React patterns  
-- Next.js App Router & performance optimization  
-- Writing scalable frontend architecture  
-
----
-
-### 🛠 Tech Stack
-
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<p align="center">
+  <a href="https://github.com/Sa3dMustafa">
+    <img src="https://komarev.com/ghpvc/?username=sa3dmustafa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-  </a>
-
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <a href="https://github.com/Sa3dMustafa?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sa3dMustafa?label=Followers&style=flat" alt="GitHub Followers" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+I'm a **Frontend Developer** and **Computer Science graduate** passionate about building clean, modern, and user-focused web experiences.
+
+I specialize in **React.js, Next.js, TypeScript, and Tailwind CSS**, with a strong interest in frontend architecture, performance optimization, responsive design, and scalable applications.
+
+I enjoy turning ideas and designs into functional products while keeping the codebase **maintainable, reusable, and easy to scale**.
+
+### 💡 What I Care About
+
+- 🎨 Clean and modern UI/UX
+- ⚡ Performance and optimization
+- 🧩 Reusable and maintainable components
+- 📱 Responsive and accessible interfaces
+- 🏗️ Scalable frontend architecture
+- 🔌 Reliable API integration
+- 📚 Continuous learning and improvement
+
+---
+
+## 🧠 Core Strengths
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sa3dmustafa&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=tokyonight" 
-    height="160"
+  <img src="https://img.shields.io/badge/Responsive%20UI-111827?style=for-the-badge" alt="Responsive UI" />
+  <img src="https://img.shields.io/badge/Frontend%20Architecture-111827?style=for-the-badge" alt="Frontend Architecture" />
+  <img src="https://img.shields.io/badge/API%20Integration-111827?style=for-the-badge" alt="API Integration" />
+  <img src="https://img.shields.io/badge/Performance-111827?style=for-the-badge" alt="Performance" />
+  <img src="https://img.shields.io/badge/Accessibility-111827?style=for-the-badge" alt="Accessibility" />
+  <img src="https://img.shields.io/badge/Internationalization-111827?style=for-the-badge" alt="Internationalization" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" />
+  </a>
+</p>
+
+### Libraries & Tools
+
+<p>
+  <a href="https://tanstack.com/query">
+    <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" width="130" alt="TanStack Query" />
+  </a>
+  <a href="https://react-hook-form.com/">
+    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge" width="145" alt="React Hook Form" />
+  </a>
+  <a href="https://zod.dev/">
+    <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge" width="75" alt="Zod" />
+  </a>
+  <a href="https://www.framer.com/motion/">
+    <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge" width="130" alt="Framer Motion" />
+  </a>
+  <a href="https://www.radix-ui.com/">
+    <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge" width="100" alt="Radix UI" />
+  </a>
+</p>
+
+**Also experienced with:**
+
+`REST APIs` · `Axios` · `next-intl` · `Context API` · `Leaflet.js` · `Lucide React` · `Git` · `GitHub` · `Figma`
+
+---
+
+## 🧠 Currently Improving
+
+I'm continuously improving my frontend engineering skills, with a current focus on:
+
+- ⚛️ Advanced React patterns
+- ▲ Next.js App Router
+- 📘 TypeScript and type-safe development
+- ⚡ Frontend performance optimization
+- 🏗️ Scalable frontend architecture
+- 🔌 API integration and data fetching
+- 🌍 Internationalization
+- ♿ Accessibility and web standards
+- 🧪 Testing and code quality
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://your-portfolio-url.com">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sa3dmustafa&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=tokyonight"
+    height="165"
+    alt="Saad's GitHub Stats"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa3dmustafa&layout=compact&theme=tokyonight" 
-    height="160"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa3dmustafa&layout=compact&theme=tokyonight"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sa3dmustafa&theme=tokyonight"
+    alt="GitHub Streak"
   />
 </p>
 
 ---
 
-### 📫 Connect with me
+## 🤝 Let's Connect
 
-- 💼 LinkedIn: [saad-mustafa](https://www.linkedin.com/in/saad-mustafa/)  
-- 📧 Email: saad.abdo01212@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/saad-mustafa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saad.abdo01212@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Sa3dMustafa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Building interfaces. Solving problems. Learning every day. 🚀</strong>
+</p>
