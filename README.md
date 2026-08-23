@@ -103,7 +103,24 @@ I enjoy turning ideas and designs into functional products while keeping the cod
 
 **Also experienced with:**
 
-`REST APIs` · `Axios` · `next-intl` · `Context API` · `Leaflet.js` · `Lucide React` · `Git` · `GitHub` · `Figma`
+`REST APIs` · `openapi-fetch` · `Axios` · `next-intl` · `Context API` · `Leaflet.js` · `Lucide React` · `Git` · `GitHub` · `Figma` 
+
+---
+
+## 🏗️ Engineering Focus
+
+I'm particularly interested in building frontend applications that are:
+
+| Focus | What I aim for |
+| --- | --- |
+| 🧩 Architecture | Reusable, scalable, and well-structured code |
+| ⚡ Performance | Fast loading and efficient rendering |
+| 🎨 UI/UX | Clean, intuitive, and consistent interfaces |
+| 📱 Responsive Design | Great experience across all screen sizes |
+| 🔌 API Integration | Reliable and type-safe communication with APIs |
+| 🌍 Internationalization | Multi-language and RTL-friendly experiences |
+| ♿ Accessibility | Usable interfaces following web standards |
+| 🧪 Code Quality | Readable, maintainable, and predictable code |
 
 ---
 
@@ -126,35 +143,23 @@ I'm continuously improving my frontend engineering skills, with a current focus 
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://your-portfolio-url.com">
+  <a href="https://saad-mustafa-portfolio-xi.vercel.app/en">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📌 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sa3dMustafa&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&theme=tokyonight"
-    height="165"
-    alt="Saad's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3dMustafa&layout=compact&langs_count=8&theme=tokyonight"
-    height="165"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/Sa3dMustafa">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
+  </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Sa3dMustafa&theme=tokyonight&hide_border=false"
-    height="165"
-    alt="GitHub Streak"
-  />
-</p>
+I use GitHub to document my learning journey, experiment with modern frontend technologies, and build practical applications.
+
 ---
 
 ## 🤝 Let's Connect
